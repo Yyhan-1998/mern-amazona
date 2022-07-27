@@ -2,6 +2,7 @@ const data = {
   products: [
     {
       name: 'Nike Slim shirt',
+      // slug is what we will see int the url, so it needs to be url-friencly
       slug: 'nike-slim-shirt',
       category: 'Shirts',
       image: '/images/p1.jpg',
